@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuenteFrio", "QuenteFrio.csproj", "{BC4D5E1A-CDA9-401D-8828-8004043D2A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4D5E1A-CDA9-401D-8828-8004043D2A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4D5E1A-CDA9-401D-8828-8004043D2A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4D5E1A-CDA9-401D-8828-8004043D2A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4D5E1A-CDA9-401D-8828-8004043D2A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8710D04E-8AC7-407F-A472-159C43114E72}
+	EndGlobalSection
+EndGlobal
